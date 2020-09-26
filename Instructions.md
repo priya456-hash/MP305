@@ -1,9 +1,9 @@
-Python Programs for Modelling I
+#Python Programs for Modelling I
 
 This web page contains a directory listing various files. These include pdfs of the practical assignments and corresponding 
 Python notebook files.
 
-You can run the Python code via your web browser by clicking on the launch binder logo at the bottom of the web page in the README.md file. (Alternatively, you may download these files and run them on your own laptop or PC if you have Python installed).  
+\item You can run the Python code via your web browser by clicking on the launch binder logo at the bottom of the web page in the README.md file. (Alternatively, you may download these files and run them on your own laptop or PC if you have Python installed).  
 This should (sometimes after a long wait) take you to a Binder directory which contains the same list of files. Clicking on a Python notebook file, such as Network_Flows_I.ipynb, brings you to a Jupyter Notebook containing the Python code in a web browser executable form.
 
 A Jupyter Python notebook is divided into cells that can be individually executed.  Some cells contain Python code e.g
