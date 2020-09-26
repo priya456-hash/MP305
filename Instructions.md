@@ -1,4 +1,4 @@
-#Python Programs for Modelling I
+Python Programs for Modelling I
 
 This web page contains a directory listing various files. These include pdfs of the practical assignments and corresponding 
 Python notebook files.
@@ -8,9 +8,9 @@ This should (sometimes after a long wait) take you to a Binder directory which c
 
 * A Jupyter Python notebook is divided into cells that can be individually executed.  Some cells contain Python code e.g
 
-In [ ]:  x=5
+    In [ ]:  x=5
 
-while others just contain text. These are called Markdown cells.
+    while others just contain text. These are called Markdown cells.
 
 * Click the Run button in the menu to execute the code in a cell. Alternatively, use the shortcut: SHIFT+RETURN. (Note that RETURN just adds a blank line of code or converts Markdown text back into Python commented text #....)
 
