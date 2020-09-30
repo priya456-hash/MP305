@@ -20,8 +20,15 @@ This should (sometimes after a long wait) take you to a Binder directory which c
 
 * You can restart and/or clear the output of your session using the kernel tab in the menu. This is useful if the program is causing problems. 
 
-* You can download your work as a *.ipynb file and upload it again to continue at a later time using the file tab in the menu. You can also download as a pdf file.
+* You can download your work as a *.ipynb file to your own PC/laptop and upload it again to continue at a later time using the file tab in the menu or the upload button in the Binder directory page. You cannot permanently save your work to the Binder or GitHub directories.
 
-* When you have finished your session, email yourself the *.ipynb file as a way to access the file later on (or else save it to the cloud if you have have that already set up).
+* *WARNING!* The Binder system will disconnect if you do not interact for about 10-15 minutes. Save your work as a *.ipynb file as above regularly.
+
+* When you have finished your session, save your work as a *.ipynb file to your PC/laptop. 
+If working in one of the university PC labs, it is recommended that you email yourself this *.ipynb file as a way to access it later on (or else save it to a memory stick or the cloud, if you have have that facility in place).
+
+* When you have completed your assignment you may print your workbook as a pdf  file by typing CTRL+p and choosing Save as PDF. Upload this pdf file to Blackboard for assessment.
+
+
 
  
